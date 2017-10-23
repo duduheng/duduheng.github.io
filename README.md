@@ -6,6 +6,5 @@ Herman's...
 
 This is a personal repository.
 
-=======
 ![Xixia](/assets/images/preview.png)
 
