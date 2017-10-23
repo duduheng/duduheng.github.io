@@ -7,7 +7,7 @@ author: Herman
 description: Init.
 ---
 
-First Blog
+第一篇儿作文
 ============
 
 从今天开始，记录技术，音乐与生活的点点滴滴。
