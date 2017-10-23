@@ -4,7 +4,7 @@ title:  "First Blog"
 categories: Other
 tags: Other
 author: Herman
-description: Init.
+description: Begin to record(开始吧).
 ---
 
 第一篇儿作文
