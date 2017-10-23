@@ -1,6 +1,7 @@
 Herman's...
 ============
 This is a personal repository.
-Home page: [hompage]https://github.com/duduheng/duduheng.github.io
+Home page: 
+[Home page](https://github.com/zxixia/jekyll-xixia).
 ============
 ![Xixia](/assets/images/preview.png)
