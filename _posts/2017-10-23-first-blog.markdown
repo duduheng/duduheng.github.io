@@ -7,7 +7,7 @@ author: Herman
 description: Init.
 ---
 
-Jekyll Xixia
+First Blog
 ============
 
 从今天开始，记录技术，音乐与生活的点点滴滴。
